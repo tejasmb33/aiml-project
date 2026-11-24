@@ -1,0 +1,5 @@
+[
+  {"path": "train/volunteer_mask.jpg", "subject": "replace_with_consented_volunteer_identifier", "session": "capture_session_1", "condition": "mask", "class": 1, "bbox": [100, 50, 300, 300], "consent": false},
+  {"path": "train/volunteer_no_mask.jpg", "subject": "replace_with_consented_volunteer_identifier", "session": "capture_session_1", "condition": "no_mask", "class": 1, "bbox": [100, 50, 300, 300], "consent": false},
+  {"path": "train/empty_room.jpg", "subject": null, "session": "capture_session_1", "condition": null, "class": 0, "bbox": null, "consent": false}
+]

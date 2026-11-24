@@ -1,0 +1,4 @@
+[
+  {"path": "frames/mask_000.png", "session": "heldout_capture_1", "condition": "mask", "faces": [{"subject": "replace_with_consented_volunteer_identifier", "bbox": [100, 50, 300, 300]}], "consent": false},
+  {"video": "videos/no_mask.mp4", "frame_index": 0, "session": "heldout_capture_2", "condition": "no_mask", "faces": [{"subject": "replace_with_consented_volunteer_identifier", "bbox": [100, 50, 300, 300]}], "consent": false}
+]

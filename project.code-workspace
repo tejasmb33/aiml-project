@@ -1,0 +1,16 @@
+{
+  "folders": [
+    { "path": "." }
+  ],
+  "settings": {
+    "editor.wordWrap": "on",
+    "files.exclude": {
+      "**/__pycache__": true,
+      "**/.pytest_cache": true
+    },
+    "search.exclude": {
+      "**/.venv": true,
+      "**/artifacts": true
+    }
+  }
+}
